@@ -2,6 +2,7 @@
 
 # Deskripsi Project
 Project ini yaitu game yang menguji keterampilan pemain dalam mengatur waktu dan akurasi
+
 Mekanisme game :
 - Pemain akan memencet layar agar kayu memanjang dan jatuh di platform berikut nya.
 - Akan diberikan beberapa ronde (30 ronde)
