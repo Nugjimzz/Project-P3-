@@ -4,6 +4,9 @@ Pengguna dapat memilih produk, menambahkan ke keranjang, dan melakukan checkout.
 
 # 📌 Fitur
 ✅ Menampilkan daftar produk
+
 ✅ Menambahkan produk ke keranjang belanja
+
 ✅ Menghitung total harga otomatis
+
 ✅ Simulasi checkout
