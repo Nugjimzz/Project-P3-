@@ -4,5 +4,7 @@ Pengguna dapat memilih produk, menambahkan ke keranjang, dan melakukan checkout.
 
 # 📌 Fitur
 ✅ Menampilkan daftar produk parfum
+
 ✅ Menambahkan produk ke keranjang belanja
+
 ✅ Simulasi checkout
