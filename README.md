@@ -1,10 +1,9 @@
 # Project-P3-aplikasi-penjualan-produk
 Aplikasi ini dibuat dengan Windows Forms (WinForms) dan C# untuk simulasi toko online sederhana.
-Pengguna dapat memilih produk, menambahkan ke keranjang, dan melakukan checkout.
+Dimana pengguna harus login sebagai admin toko parfum kemudian melakukan CRUD untuk membenahi toko.
 
 # 📌 Fitur
-✅ Menampilkan daftar produk parfum
-
-✅ Menambahkan produk ke keranjang belanja
-
-✅ Simulasi checkout
+✅ Login 
+✅ Menambahkan Parfum
+✅ Mengupdate Parfum
+✅ Menghapus Parfum
